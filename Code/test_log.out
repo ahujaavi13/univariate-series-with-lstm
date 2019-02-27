@@ -1,0 +1,7 @@
+nohup: ignoring input
+Using TensorFlow backend.
+/home/ubuntu/users/abhishek/univariate-series-with-lstm/Code/helper_lstm.py:111: FutureWarning: reshape is deprecated and will raise in a subsequent release. Please use .values.reshape(...) instead
+  preds_moving = scalar.inverse_transform(preds_moving.reshape(-1,1))
+Preprocessing Done
+Reshaping Done
+Means Squared error on Holdout is :653.1752341700485
