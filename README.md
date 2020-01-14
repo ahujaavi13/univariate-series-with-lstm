@@ -27,5 +27,6 @@ Once the algorithm is ready and tuned properly it will do forecasting as it has 
 
 <img src="https://raw.githubusercontent.com/ahujaavi13/univariate-series-with-lstm/master/Predictions/ActualvsPredicted.png" width=350 height = 300>
 
-**In this case the model results might vary to some degree with rerun due to random initialization.
-The current result being displayed is based on the model saved in folder `Model`. Will try to find a model setting that provides more stability as an improvement for this repository**
+#### Note:
+In this case the model results might vary to some degree with rerun due to random initialization.
+The current result being displayed is based on the model saved in folder `Model`. Will try to work on a model setting that provides more stability as an improvement for this repository
